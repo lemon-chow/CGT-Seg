@@ -1,0 +1,5 @@
+checkpoints/
+data/
+wandb/
+.idea/
+**/__pycache__
